@@ -1,2 +1,2 @@
-# HolaMundoGit
+# HelloWorldGit
 Laboratorio 
